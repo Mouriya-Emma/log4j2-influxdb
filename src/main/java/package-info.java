@@ -1,0 +1,1 @@
+package io.github.murraya.log4j.influxdb;
