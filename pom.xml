@@ -34,7 +34,7 @@
     </developers>
 
 
-    <groupId>io.github.mouriya-mmma</groupId>
+    <groupId>io.github.mouriya-emma</groupId>
     <artifactId>log4j2-influxdb</artifactId>
     <version>0.1</version>
 
